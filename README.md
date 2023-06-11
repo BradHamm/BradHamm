@@ -1,4 +1,4 @@
-//SEE:Blame
+//SEE:Code
 
 {
   "name": "githib-README",
